@@ -1,2 +1,2 @@
-# CV---Android-App
-CV application done in Java
+# CV-Android-App
+CV application done in Java.
